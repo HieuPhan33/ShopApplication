@@ -1,0 +1,14 @@
+2017-10-22T11:23:01.629,CardC2 was read
+2017-10-22T11:23:06.747,Summarized card
+2017-10-22T11:23:08.805, Anon Card C1 is issued
+2017-10-22T11:23:14.782, Premium Card C2 is issued
+2017-10-22T11:23:20.812, Basic Card C3 is issued
+2017-10-22T11:23:28.238, Purchase C2 was made, total amount is 1000.0
+2017-10-22T11:23:34.657, Purchase C3 was made, total amount is 120.0
+2017-10-22T11:23:40.562, Purchase C1 was made, total amount is 500.0
+2017-10-22T11:23:45.050, Summarized card
+2017-10-22T11:29:42.542, Basic Card C4 is issued
+2017-10-22T11:29:48.477, Purchase CASH was made, total amount is 150.0
+2017-10-22T11:29:59.850, Purchase C4 was made, total amount is 170.0
+2017-10-22T11:30:39.413, Summarized purchase
+2017-10-22T11:37:07.862, Purchase CASH was made, total amount is 100.0

@@ -1,0 +1,4 @@
+AnonCard,C1,5
+PremiumCard,C2,30,1000.0,Steve,h@gmail.com
+BasicCard,C3,1,120.0,david,d@gmail.com
+BasicCard,C4,2,170.0,Steven,S@gmail.com
